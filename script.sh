@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "hi All"
+echo "hi Team"
